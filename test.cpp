@@ -144,6 +144,7 @@ int singleplayer() {
 	Grid();
 	cin.ignore();
 	cin.get();
+	cout << "It is a tie" << endl;
 	return -1;
 }
 
