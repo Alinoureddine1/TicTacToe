@@ -95,7 +95,7 @@ void Grid() {
 
 int singleplayer() {
 	cout << "Game mode: Single Player\n";
-	cout << "Your are playing as X\n";
+	cout << "You are playing as X\n";
 	cout << "Difficulty: Easy\n";
 	cout << "LOADING.";
 	Sleep(300);
